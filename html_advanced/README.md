@@ -5,7 +5,7 @@ In this project, I have learned how to use HTML tags to structure a web page. No
 **Important Note:** Paying attention to details was crucial! I made sure to use lowercase where required, avoided typos, and followed best practices.
 
 ## Resources
-I have read or watched:
+I have read and watched:
 
 - [HTML 5.2](https://www.w3.org/TR/html52/)
 - [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -49,4 +49,4 @@ Here’s what I have achieved in this project:
 - My code is W3C compliant and validated using the [W3C-Validator](https://validator.w3.org/).
 - "Techium" is the name of the company I used across the webpages.
 
-## Author: Daniel IRYIVUZE
+### Author: Daniel IRYIVUZE
