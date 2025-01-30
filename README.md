@@ -1,1 +1,1 @@
-Responsive design by Daniel-IRYIVUZE.
+Frontend tasks done by Daniel-IRYIVUZE.
